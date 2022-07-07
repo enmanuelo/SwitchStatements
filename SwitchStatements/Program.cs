@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SelectionStatements
+namespace SwitchStatements
 {
     class Program
     {
