@@ -1,0 +1,15 @@
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/bin/Debug/net6.0/SwitchStatements
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/bin/Debug/net6.0/SwitchStatements.deps.json
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/bin/Debug/net6.0/SwitchStatements.runtimeconfig.json
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/bin/Debug/net6.0/SwitchStatements.dll
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/bin/Debug/net6.0/SwitchStatements.pdb
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.AssemblyInfo.cs
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.dll
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/refint/SwitchStatements.dll
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.pdb
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/SwitchStatements.genruntimeconfig.cache
+/Users/enmanueldiaz/Desktop/repos/SwitchStatements/SwitchStatements/obj/Debug/net6.0/ref/SwitchStatements.dll
